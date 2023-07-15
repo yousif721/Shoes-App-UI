@@ -1,4 +1,4 @@
-# shop_app_ui
+# shoes_app_ui
 
 A new Flutter project.
 
